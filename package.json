@@ -7,8 +7,12 @@
     "@testing-library/react": "^11.2.3",
     "@testing-library/user-event": "^12.6.3",
     "react": "^17.0.1",
+    "react-animated-bg": "^1.1.2",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.1",
+    "react-sky": "^1.1.0",
+    "react-tsparticles": "^1.18.11",
+    "react-vfx": "^0.4.1",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
